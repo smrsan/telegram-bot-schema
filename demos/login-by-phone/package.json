@@ -1,0 +1,16 @@
+{
+  "name": "login-by-phone",
+  "private": true,
+  "scripts": {
+    "start": "nodemon --exec babel-node src/index.js"
+  },
+  "dependencies": {
+    "telegram-bot-schema": "workspace:^0.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "nodemon": "^2.0.14"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "greeter",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "telegram-bot-schema": "workspace:^0.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "nodemon": "^2.0.14"
+  }
+}

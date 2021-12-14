@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.validate.enable": true,
+  "typescript.validate.enable": true,
+  "[yaml]": {
+    "editor.formatOnSave": false
+  }
+}

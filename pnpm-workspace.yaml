@@ -1,0 +1,4 @@
+packages:
+  -"pkg/"
+  - "demos/**"
+link-workspace-packages: deep
